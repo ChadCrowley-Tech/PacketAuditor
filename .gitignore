@@ -6,6 +6,6 @@ env/
 __pycache__/
 *.py[cod]
 *$py.class
-
+audit_log.csv
 # VS Code specific
 .vscode/
